@@ -1,4 +1,4 @@
-name: List Test Build Workflow
+name: Lint Test Build Workflow
 on: push
 jobs:
   list-test-build:
